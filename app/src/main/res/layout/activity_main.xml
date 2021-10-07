@@ -153,7 +153,7 @@
         app:srcCompat="@drawable/luidi" />
 
     <ImageView
-        android:id="@+id/imagePlay"
+        android:id="@+id/imagePause"
         android:layout_width="45dp"
         android:layout_height="45dp"
         android:layout_marginStart="168dp"
@@ -183,7 +183,7 @@
         app:srcCompat="@drawable/laplai" />
 
     <ImageView
-        android:id="@+id/imagePause"
+        android:id="@+id/imagePlay"
         android:layout_width="45dp"
         android:layout_height="45dp"
         android:layout_marginStart="125dp"
